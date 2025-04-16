@@ -22,9 +22,15 @@ Os notebooks contidos em cada pasta são:
 <em>Monstrinhos</em>
 
 * (Exceção) 3.1 - Grafo Computacional: Único arquivo pdf da pasta, contém a digitalização de um grafo computacional.
-* 3.2 - Classes para a representação de elementos e moléculas: Contém a presença de duas classes para a modelagem de elementos e moléculas químicas
+* "3.2 - Átomos e moléculas": Contém a presença de duas classes para a modelagem de elementos (Elemento) e moléculas químicas (Molecula). Estão interligadas pois um objeto da classe Molecula é inicializado por um dicionário que contém como chave um objeto da classe Elemento e como valor a quantidade de elementos daquele tipo presente em uma molécula.
+* "3.3 - Herança e hereditariedade": Contém duas classes (Gene e Hereditariedade), as quais estão interligadas por meio do conceito de herança. A primeira classe, gene, possui métodos relacionados a expressão gênica de um indivíduo, enquanto a segunda utiliza esses métodos para compor uma classe que analisa a expressão fenotípica de um indivíduo com base em seus progenitores.
+* "3.4 - É magia E nanotecnologia": Contém uma classe apenas com métodos dunder para a comparação de caracterizações com um resultado base, definido na inicialização da instância.
+* "3.5 - Forma, função e ativação": Implementa três funções de ativação (Tangente hiperbólica, ReLU e softplus) em uma rede neural do tipo Multilayer Perceptron (MLP) feita em Python puro.
+* "3.6 - Vivendo e (nem sempre) aprendendo": Implementa o plot de uma curva de aprendizado em uma rede neural do tipo Multilayer Perceptron (MLP) feita em Python puro.
   
 <em>Feras Formidáveis</em>
+Nesse repositório, também estão contidas as feras formidáveis feitas de forma individual:
+* "4.2 - Stop, you´re overfitting me": Implementa a estratégia de Early Stopping (do português, parada antecipada) - junto ao plot de curva de aprendizado - em uma rede neural do tipo Multilayer Perceptron (MLP) feita por meio do módulo Pytorch. 
 ### Referências Gerais 📚
 
 
