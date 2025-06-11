@@ -8,12 +8,11 @@
 ### Pré-requisitos 📄
 Como pré-requisitos para a utilização dos notebooks presentes nesse repositório, é necessário utilizar editor de linguagem compatível com Python 3.13, bem como instalar as versões especificiadas das seguintes bibliotecas:
 ```bash
-pip install pandas 2.2.3
-pip install seaborn 0.13.2
-pip install numpy 2.2.3
-pip install matplotlib 3.10.1
-pip install scikit-learn 1.6
-pip install PyTorch 2.6
+pip install pandas==2.2.3
+pip install seaborn==0.13.2
+pip install numpy==2.2.3
+pip install matplotlib==3.10.1
+pip install scikit-learn==1.6
 ```
 
 ### 🗃️ Organização do Repositório
