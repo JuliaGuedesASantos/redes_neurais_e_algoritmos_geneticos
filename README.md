@@ -3,6 +3,8 @@
 ![Status](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
 
 ### Introdução 🤖
+# <p align= "center"> **Redes Neurais e Algoritmos Genéticos** 💻🧠🧬 </p>
+
 ### Pré-requisitos 📄
 Como pré-requisitos para a utilização dos notebooks presentes nesse repositório, é necessário utilizar editor de linguagem compatível com Python 3.13, bem como instalar as versões especificiadas das seguintes bibliotecas:
 ```bash
@@ -12,7 +14,6 @@ pip install numpy 2.2.3
 pip install matplotlib 3.10.1
 pip install scikit-learn 1.6
 pip install PyTorch 2.6
-pip install TensorFlow 2.16.1
 ```
 
 ### 🗃️ Organização do Repositório
@@ -27,6 +28,9 @@ Os notebooks contidos em cada pasta são:
 * "3.4 - É magia E nanotecnologia": Contém uma classe apenas com métodos dunder para a comparação de caracterizações com um resultado base, definido na inicialização da instância.
 * "3.5 - Forma, função e ativação": Implementa três funções de ativação (Tangente hiperbólica, ReLU e softplus) em uma rede neural do tipo Multilayer Perceptron (MLP) feita em Python puro.
 * "3.6 - Vivendo e (nem sempre) aprendendo": Implementa o plot de uma curva de aprendizado em uma rede neural do tipo Multilayer Perceptron (MLP) feita em Python puro.
+* "3.7 - Tudo que está bom, pode melhorar": Compara o desempenho de três tipos de algoritmos (busca aleatória, busca em grade e algoritmo genético) para a resolução do problema das caixas binárias.
+* "3.8 - Minimamente aceitável": Implementa um algoritmo genético para a descoberta dos mínimos globais da função de Himmelblau.
+
   
 <em>Feras Formidáveis</em>
 Nesse repositório, também estão contidas as feras formidáveis feitas de forma individual:
