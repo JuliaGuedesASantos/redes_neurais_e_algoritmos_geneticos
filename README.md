@@ -2,9 +2,6 @@
 ## Atividades desenvolvidas durante a disciplina T03-ATP-303, presente no terceiro semestre do Bacharelado em Ciência e Tecnologia (BCT)
 ![Status](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
 
-### Introdução 🤖
-# <p align= "center"> **Redes Neurais e Algoritmos Genéticos** 💻🧠🧬 </p>
-
 ### Pré-requisitos 📄
 Como pré-requisitos para a utilização dos notebooks presentes nesse repositório, é necessário utilizar editor de linguagem compatível com Python 3.13, bem como instalar as versões especificiadas das seguintes bibliotecas:
 ```bash
