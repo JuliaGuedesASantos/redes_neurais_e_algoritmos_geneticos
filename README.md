@@ -31,7 +31,5 @@ Os notebooks contidos em cada pasta são:
 <em>Feras Formidáveis</em>
 Nesse repositório, também estão contidas as feras formidáveis feitas de forma individual:
 * "4.2 - Stop, you´re overfitting me": Implementa a estratégia de Early Stopping (do português, parada antecipada) - junto ao plot de curva de aprendizado - em uma rede neural do tipo Multilayer Perceptron (MLP) feita por meio do módulo Pytorch. 
-### Referências Gerais 📚
-
 
 
